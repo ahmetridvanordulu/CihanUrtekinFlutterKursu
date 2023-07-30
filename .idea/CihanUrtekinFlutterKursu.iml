@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/sharedprefences/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/sharedprefences/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/sharedprefences/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/vücutkitleendeksi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/vücutkitleendeksi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/vücutkitleendeksi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/iller_ve_ilceler/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/iller_ve_ilceler/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter örnekleri/iller_ve_ilceler/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
